@@ -5,10 +5,9 @@ I'm a passionate React.js frontend developer with a strong focus on creating eng
 ## 🔨 Skills
 
 - **Frontend Development:** React.js, Redux, JavaScript (ES6+), HTML5, CSS3
-- **UI/UX Design:** Responsive Web Design, Material-UI, Bootstrap
+- **UI/UX Design:** Responsive Web Design, Material-UI, Bootstrap, Tailwind CSS
 - **Version Control:** Git, GitHub
-- **Tools:** Visual Studio Code, Webpack, Babel
-- **Deployment:** Heroku
+- **Tools:** Visual Studio Code, Webpack, Babel, Highcharts js, Vite 
 
 ## 💼 Experience
 
